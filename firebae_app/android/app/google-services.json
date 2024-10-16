@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166699712370",
+    "project_id": "demoapp-8e52b",
+    "storage_bucket": "demoapp-8e52b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166699712370:android:5e2108343a13ab6f93e7eb",
+        "android_client_info": {
+          "package_name": "com.example.firebae_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPqNZrnyVA--nSoQWERdIB9_bOEkTvVi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
